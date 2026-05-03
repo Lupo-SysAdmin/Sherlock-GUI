@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Sherlock Lupo
+Exec=/home/kali/Documents/SherlockProject/venv/bin/python3 /home/kali/Documents/SherlockProject/src/Sherlock.py
+Icon=/home/kali/Documents/SherlockProject/assets/sherlock.png
+Type=Application
+Terminal=false
+Categories=Network;Security;

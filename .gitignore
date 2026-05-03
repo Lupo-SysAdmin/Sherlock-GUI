@@ -1,0 +1,13 @@
+# Entornos virtuales
+venv/
+.env
+
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Logs y reportes personales (No queremos subir tus búsquedas privadas)
+Logs_Sherlock/
+
+# Archivos de sistema
+.DS_Store
