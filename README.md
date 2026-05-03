@@ -24,16 +24,21 @@
 
 ---
 
-## 🛠️ Instalación Rápida | Quick Installation
+## 🛠️ Instalación y Uso | Quick Installation & Usage
 
 Sigue estos pasos en tu terminal | Follow these steps in your terminal:
-```bash
-# Clonar el repositorio | Clone the repository
-git clone https://github.com/Lupo-SysAdmin/Sherlock-GUI.git
 
-# Entrar a la carpeta | Enter the folder
+```bash
+# 1. Clonar el repositorio | Clone the repository
+git clone [https://github.com/Lupo-SysAdmin/Sherlock-GUI.git](https://github.com/Lupo-SysAdmin/Sherlock-GUI.git)
+
+# 2. Entrar a la carpeta | Enter the folder
 cd Sherlock-GUI
 
-# Ejecutar el instalador automático | Run the automatic installer
+# 3. Ejecutar el instalador automático | Run the automatic installer
 chmod +x setup.sh
 ./setup.sh
+
+# 4. Iniciar la aplicación | Launch the application
+source venv/bin/activate
+python3 src/Sherlock.py
