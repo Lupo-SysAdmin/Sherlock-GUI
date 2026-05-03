@@ -29,7 +29,7 @@
 Sigue estos pasos en tu terminal | Follow these steps in your terminal:
 ```bash
 # Clonar el repositorio | Clone the repository
-git clone [https://github.com/Lupo-SysAdmin/Sherlock-GUI.git](https://github.com/Lupo-SysAdmin/Sherlock-GUI.git)
+git clone https://github.com/Lupo-SysAdmin/Sherlock-GUI.git
 
 # Entrar a la carpeta | Enter the folder
 cd Sherlock-GUI
