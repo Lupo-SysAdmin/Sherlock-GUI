@@ -1,5 +1,7 @@
 # 🔍 Sherlock by Lupo - OSINT Tool
 
+![Sherlock GUI Interface](assets/screenshot.png)
+
 [ES] Una herramienta de investigación de fuentes abiertas (OSINT) con interfaz gráfica avanzada, diseñada para entornos Linux (especialmente Kali Linux).
 
 [EN] An Open Source Intelligence (OSINT) tool with an advanced graphical interface, designed for Linux environments (especially Kali Linux).
@@ -26,11 +28,12 @@
 
 Sigue estos pasos en tu terminal | Follow these steps in your terminal:
 ```bash
-# Entrar a la carpeta | Enter the folder
-cd SherlockProject
+# Clonar el repositorio | Clone the repository
+git clone [https://github.com/Lupo-SysAdmin/Sherlock-GUI.git](https://github.com/Lupo-SysAdmin/Sherlock-GUI.git)
 
-# Dar permisos al instalador | Grant installer permissions
-chmod +x setup.sh
+# Entrar a la carpeta | Enter the folder
+cd Sherlock-GUI
 
 # Ejecutar el instalador automático | Run the automatic installer
+chmod +x setup.sh
 ./setup.sh
